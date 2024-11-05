@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://aneveezo.github.io/JCG/sitemap_index.txt
+Sitemap: https://aneveezo.github.io/Ugp/sitemap_index.txt
+Sitemap: https://aneveezo.github.io/ZBY/sitemap_index.txt
+Sitemap: https://aneveezo.github.io/bDy/sitemap_index.txt
